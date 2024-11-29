@@ -1,4 +1,4 @@
-## Hi there dcsmc
+## Hi there dcsm
 
 <!--
 **TANATOU/TANATOU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
